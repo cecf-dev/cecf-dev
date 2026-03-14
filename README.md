@@ -59,7 +59,7 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
   </a>
   <br></br>
   <a href="https://github.com/cecf-dev">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=dark&hide_border=false" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cecf-dev&theme=dark&hide_border=false" />
   </a>
 </td>
 
