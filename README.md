@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Cristian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cris7cf&label=Profile%20views&color=0e75b6&style=flat" alt="cris7cf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cris7cf&label=Profile%20views&color=0e75b6&style=flat" alt="cecf-dev" /> </p>
 
 <h2>About me</h2>
 
@@ -15,9 +15,9 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 <h2>🌐 Connect with me:</h2>
 <p>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/cris7cf/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/cecf-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:cristiancf.6421@gmail.com"
+<a target="_blank" href="mailto:cecf.contacto@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 
@@ -54,18 +54,18 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <a href="https://github.com/cris7cf">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cris7cf&theme=dark&show_icons=true&count_private=true" />
+  <a href="https://github.com/cecf-dev">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cecf-dev&theme=dark&show_icons=true&count_private=true" />
   </a>
   <br></br>
-  <a href="https://github.com/cris7cf">
+  <a href="https://github.com/cecf-dev">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=dark&hide_border=false" />
   </a>
 </td>
 
 <td width="50%" align="center">
-<a href="https://github.com/cris7cf">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cris7cf&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<a href="https://github.com/cecf-dev">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cecf-dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </a>
   </td>
 </tr>
