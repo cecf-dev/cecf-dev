@@ -7,7 +7,7 @@
 
 I am a computer engineering student, I am expanding my knowledge in back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Arduino
+  - Analysis and design of algorithms
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
@@ -33,7 +33,6 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge">
   
@@ -44,7 +43,7 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 <span>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">  
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h2>Github stats:</h2> 
