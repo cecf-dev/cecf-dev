@@ -5,15 +5,19 @@ on:
     - cron: "0 */12 * * *" # Se ejecuta cada 12 horas
   workflow_dispatch:
 
+# Esto le da permisos explícitos de escritura al token de GitHub
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        # 1. Cargar el repositorio
+        # 1. Cargar el repositorio (actualizado a v4)
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-        # 2. Generar los archivos de la serpiente (SVG y GIF)
+        # 2. Generar los archivos de la serpiente
       - name: Generate the snake files
         uses: Platane/snk@v3
         id: snake-gif
@@ -23,9 +27,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-        # 3. Subir los cambios a una rama de salida o al mismo repo
+        # 3. Subir los cambios a la rama output (actualizado a v4)
       - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
